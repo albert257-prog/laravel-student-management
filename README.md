@@ -32,17 +32,39 @@ A robust, full-stack Laravel web application designed to streamline the manageme
 
 ### 1. Dashboard & Records List
 The main dashboard provides a high-level view of all students with quick access to management tools, search, and sorting.
+![Dashboard](screenshots/Dashboard.png)
 
-
-### 2. Add & Edit Student
+### 2. Add Student
 Intuitive forms for capturing student details including Name, Email, and Phone Number.
-
+![Add Student](screenshots/add_student.png)
 
 ### 3. Detailed View
 A dedicated page to view individual student profiles in a clean, card-based layout.
+![Student Details](screenshots/student_details.png)
 
 ### 4. Safety First: Delete Confirmation
 To prevent accidental data loss, a confirmation modal appears before any record is permanently removed.
+![Delete Modal](screenshots/delete_modal.png)
+
+### 5. Deleted Student Notification: Delete Student
+To delete student
+![Delete Student Notification](screenshots/delete_student.png)
+
+### 6. Edit Student Screen: Edit Student
+To successfully edit student
+![edit Student](screenshots/edit_student.png)
+
+### 7. Added Student Notification: Add Student
+To add student succefully
+![Added Student Notification](screenshots/added_student.png)
+
+### 8. Filter Student Screen: Filter Student
+To search student
+![Filter search](screenshots/filter_search.png)
+
+### 9. Pagination: Scroll Pages
+To scroll through pages
+![Pgae Paginator](screenshots/pagination.png)
 
 ---
 
