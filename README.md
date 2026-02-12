@@ -30,41 +30,63 @@ A robust, full-stack Laravel web application designed to streamline the manageme
 
 ## 📸 Screen Gallery
 
+<details>
+<summary><b>Click to expand screenshots</b></summary>
+
 ### 1. Dashboard & Records List
 The main dashboard provides a high-level view of all students with quick access to management tools, search, and sorting.
-![Dashboard](screenshots/Dashboard.png)
+<p align="center">
+<img src="screenshots/Dashboard.png" alt="Dashboard" width="800">
+</p>
 
 ### 2. Add Student
 Intuitive forms for capturing student details including Name, Email, and Phone Number.
-![Add Student](screenshots/add_student.png)
+<p align="center">
+<img src="screenshots/add_student.png" alt="Dashboard" width="800">
+</p>
 
 ### 3. Detailed View
 A dedicated page to view individual student profiles in a clean, card-based layout.
-![Student Details](screenshots/student_details.png)
+<p align="center">
+<img src="screenshots/student_details.png" alt="Dashboard" width="800">
+</p>
 
 ### 4. Safety First: Delete Confirmation
 To prevent accidental data loss, a confirmation modal appears before any record is permanently removed.
-![Delete Modal](screenshots/delete_modal.png)
+<p align="center">
+<img src="screenshots/delete_modal.png" alt="Dashboard" width="800">
+</p>
 
 ### 5. Deleted Student Notification: Delete Student
 To delete student
-![Delete Student Notification](screenshots/delete_student.png)
+<p align="center">
+<img src="screenshots/delete_student.png" alt="Dashboard" width="800">
+</p>
 
 ### 6. Edit Student Screen: Edit Student
 To successfully edit student
-![edit Student](screenshots/edit_student.png)
+<p align="center">
+<img src="screenshots/edit_student.png" alt="Dashboard" width="800">
+</p>
 
 ### 7. Added Student Notification: Add Student
 To add student succefully
-![Added Student Notification](screenshots/added_student.png)
+<p align="center">
+<img src="screenshots/added_student.png" alt="Dashboard" width="800">
+</p>
 
 ### 8. Filter Student Screen: Filter Student
 To search student
-![Filter search](screenshots/filter_search.png)
+<p align="center">
+<img src="screenshots/filter_search.png" alt="Dashboard" width="800">
+</p>
 
 ### 9. Pagination: Scroll Pages
 To scroll through pages
-![Pgae Paginator](screenshots/pagination.png)
+<p align="center">
+<img src="screenshots/pagination.png" alt="Dashboard" width="800">
+</p>
+</details>
 
 ---
 
